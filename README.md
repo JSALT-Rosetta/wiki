@@ -12,7 +12,19 @@ train/dev/test splits for flickr8k-speech, mscoco-speech, and the 8k-mscoco subs
 <li><a href="https://github.com/JSALT-Rosetta/jsalt-rosetta-2017/tree/master/vgg_features">VGG features</a></li>
 <li><a href="https://github.com/JSALT-Rosetta/Results">Some results</a></li>
 </ul></li>
-<li>The <a href="https://github.com/neulab/xnmt/tree/speech_retrieval/xnmt/">speech_retrieval branch of xnmt</a></li>
+<li>Several branches of <a href="https://github.com/neulab/xnmt/">xnmt</a> including:
+<ul>
+<li><a href="https://github.com/neulab/xnmt/speech_retrieval">speech_retrieval</a></li>
+<li><a href="https://github.com/neulab/xnmt/linear_encoder">linear_encoder</a></li>
+<li><a href="https://github.com/neulab/xnmt/lwang114">lwang114</a></li>
+<li><a href="https://github.com/neulab/xnmt/hidden_states_mingxing">hidden_states_mingxing</a></li>
+<li><a href="https://github.com/neulab/xnmt/segmenting_encoder">segmenting_encoder</a></li>
+<li><a href="https://github.com/neulab/xnmt/shrutijpalaskar-patch-1">shrutijpalaskar-patch-1</a>, the branch that introduced
+attention-matrix visualization reports</li>
+<li><a href="https://github.com/neulab/xnmt/subsample-db-ids">subsample-db-ids</a></li>
+<li><a href="https://github.com/neulab/xnmt/yaml-v2">yaml-v2</a></li>
+</ul>
+</li>
 <li>The <a href="https://github.com/iondel/amdtk">Acoustic Model Development Toolkit</a> is one of our baseline unit discovery
 systems.</li>
 <li><a href="https://github.com/neulab/jsalt-rosetta/">Results that are not (yet?) public</a>
