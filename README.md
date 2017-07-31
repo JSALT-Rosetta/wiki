@@ -14,15 +14,15 @@ train/dev/test splits for flickr8k-speech, mscoco-speech, and the 8k-mscoco subs
 </ul></li>
 <li>Several branches of <a href="https://github.com/neulab/xnmt/">xnmt</a> including:
 <ul>
-<li><a href="https://github.com/neulab/xnmt/speech_retrieval">speech_retrieval</a></li>
-<li><a href="https://github.com/neulab/xnmt/linear_encoder">linear_encoder</a></li>
-<li><a href="https://github.com/neulab/xnmt/lwang114">lwang114</a></li>
-<li><a href="https://github.com/neulab/xnmt/hidden_states_mingxing">hidden_states_mingxing</a></li>
-<li><a href="https://github.com/neulab/xnmt/segmenting_encoder">segmenting_encoder</a></li>
-<li><a href="https://github.com/neulab/xnmt/shrutijpalaskar-patch-1">shrutijpalaskar-patch-1</a>, the branch that introduced
+<li><a href="https://github.com/neulab/xnmt/tree/speech_retrieval/xnmt">speech_retrieval</a></li>
+<li><a href="https://github.com/neulab/xnmt/tree/linear_encoder/xnmt">linear_encoder</a></li>
+<li><a href="https://github.com/neulab/xnmt/tree/lwang114/xnmt">lwang114</a></li>
+<li><a href="https://github.com/neulab/xnmt/tree/hidden_states_mingxing/xnmt">hidden_states_mingxing</a></li>
+<li><a href="https://github.com/neulab/xnmt/tree/segmenting_encoder/xnmt">segmenting_encoder</a></li>
+<li><a href="https://github.com/neulab/xnmt/tree/shrutijpalaskar-patch-1/xnmt">shrutijpalaskar-patch-1</a>, the branch that introduced
 attention-matrix visualization reports</li>
-<li><a href="https://github.com/neulab/xnmt/subsample-db-ids">subsample-db-ids</a></li>
-<li><a href="https://github.com/neulab/xnmt/yaml-v2">yaml-v2</a></li>
+<li><a href="https://github.com/neulab/xnmt/tree/subsample-db-ids/xnmt">subsample-db-ids</a></li>
+<li><a href="https://github.com/neulab/xnmt/tree/yaml-v2/xnmt">yaml-v2</a></li>
 </ul>
 </li>
 <li>The <a href="https://github.com/iondel/amdtk">Acoustic Model Development Toolkit</a> is one of our baseline unit discovery
