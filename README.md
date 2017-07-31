@@ -22,7 +22,6 @@ train/dev/test splits for flickr8k-speech, mscoco-speech, and the 8k-mscoco subs
 <li><a href="https://github.com/neulab/xnmt/tree/shrutijpalaskar-patch-1/xnmt">shrutijpalaskar-patch-1</a>, the branch that introduced
 attention-matrix visualization reports</li>
 <li><a href="https://github.com/neulab/xnmt/tree/subsample-db-ids/xnmt">subsample-db-ids</a></li>
-<li><a href="https://github.com/neulab/xnmt/tree/yaml-v2/xnmt">yaml-v2</a></li>
 </ul>
 </li>
 <li>The <a href="https://github.com/iondel/amdtk">Acoustic Model Development Toolkit</a> is one of our baseline unit discovery
