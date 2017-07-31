@@ -13,11 +13,14 @@ train/dev/test splits for flickr8k-speech, mscoco-speech, and the 8k-mscoco subs
 <li><a href="https://github.com/JSALT-Rosetta/Results">Some results</a></li>
 </ul></li>
 <li>The <a href="https://github.com/neulab/xnmt/tree/speech_retrieval/xnmt/">speech_retrieval branch of xnmt</a></li>
+<li>The <a href="https://github.com/iondel/amdtk">Acoustic Model Development Toolkit</a> is one of our baseline unit discovery
+systems.</li>
 <li><a href="https://github.com/neulab/jsalt-rosetta/">Results that are not (yet?) public</a>
 <ul>
 <li><a href="https://github.com/neulab/jsalt-rosetta/tree/master/xnmt-config">xnmt config</a> files for flickr8k experiments</li>
 <li>Generate a 14x14 grid of CNN-based region vectors for each image using <a href="https://github.com/neulab/jsalt-rosetta/tree/master/vgg16">VGG16</a></li>
 <li><a href="https://github.com/neulab/jsalt-rosetta/tree/master/feats2xnmt">feats2xnmt</a>: Convert speech, text, and image features from the format of another package (kaldi, VGG16, etc) into xnmt format.</li>
+<li><a href="https://github.com/neulab/jsalt-rosetta/wiki">Private wiki</a></li>
 </ul>
 </li>
 </ul>
