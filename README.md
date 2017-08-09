@@ -1,5 +1,5 @@
 # wiki
-<a href="http://129.199.81.135/cmuworkshop/index.html">The Speaking Rosetta Stone Project</a> is a project of the 2017 <a href="https://www.lti.cs.cmu.edu/2017-jelinek-workshop">Jelinek Speech And Language Technology</a> workshop.  Our goal is to create software that learns the units of a new language (phonemes and words) without the need for any text.  Instead of text, we observe the types of "prompt signals" that a field linguist might use to elicit utterances from the speakers of an unwritten language: images, and translations.
+<a href="http://129.199.81.135/cmuworkshop/index.html">The Speaking Rosetta Stone Project</a> is a project of the 2017 <a href="https://www.lti.cs.cmu.edu/2017-jelinek-workshop">Jelinek Speech And Language Technology</a> workshop.  Our goal is to create software that learns the units of a new language (phonemes and words) without the need for any text.  Instead of text, we observe the types of "prompt signals" that a field linguist might use to elicit utterances from the speakers of an unwritten language: images, and translations. For more information, background, and people involved, see the <a href="http://129.199.81.135/cmuworkshop/index.html">Speaking Rosetta Stone project page</a>.
 
 Software and data created by this project include:
 <ul>
