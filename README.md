@@ -26,7 +26,8 @@ attention-matrix visualization reports</li>
 </li>
 <li>The <a href="https://github.com/iondel/amdtk">Acoustic Model Development Toolkit</a> is one of our baseline unit discovery
 systems.</li>
-<li><a href="https://github.com/neulab/jsalt-rosetta/">Results that are not (yet?) public</a>
+<li><a href="https://github.com/neulab/jsalt-rosetta/">The following results are not public because they include all kinds
+of local pathnames that don't generalize,</a> but if you think any of these things would be useful to you, please contact us.
 <ul>
 <li><a href="https://github.com/neulab/jsalt-rosetta/tree/master/xnmt-config">xnmt config</a> files for flickr8k experiments</li>
 <li>Generate a 14x14 grid of CNN-based region vectors for each image using <a href="https://github.com/neulab/jsalt-rosetta/tree/master/vgg16">VGG16</a></li>
